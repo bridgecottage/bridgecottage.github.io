@@ -58,20 +58,12 @@ ol {
 }
 
 
-section#contact {
+section#location {
     background-color: #277498;
     color: #ffffff;
 }
 
-#map > div.row > div > p:nth-child(7) > a {
-    background-color: #277498;
-    color: #ffffff;
-}
 
-#map > div.row > div > p:nth-child(7) > a:hover {
-    background-color: rgba(39, 116, 152, 0.75);
-    color: #ffffff;
-}
 
 
 
