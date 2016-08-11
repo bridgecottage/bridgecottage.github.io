@@ -33,6 +33,19 @@ p.text-muted {
     font-family: Arial!important;
 }
 
+#map {
+    padding: 0px;
+}
+
+
+
+#portfolio > div > div {
+    pointer-events: none;
+}
+
+
+
+
 
 
 hr {
