@@ -63,7 +63,9 @@ section#location {
     color: #ffffff;
 }
 
-
+section#location {
+    padding: 0px;
+}
 
 
 
