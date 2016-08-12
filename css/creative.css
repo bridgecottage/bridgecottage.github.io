@@ -72,6 +72,11 @@ section#location {
 }
 
 
+#portfolio > div > div {
+    margin-right: -15px;
+}
+
+
 hr {
   border-color: ;
   border-width: 3px;
