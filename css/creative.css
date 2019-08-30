@@ -222,7 +222,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/winter-header.png');
+  background-image: url('../img/header.png');
   text-align: center;
   color: white;
 }
