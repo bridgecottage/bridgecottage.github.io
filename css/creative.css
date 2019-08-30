@@ -222,7 +222,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/header2.jpg');
   text-align: center;
   color: white;
 }
@@ -355,13 +355,22 @@ header .header-content .header-content-inner p {
   padding-left: 0;
 }
 .btn-default {
-  color: #ffffff;
-  background-color: #001430;
+  color: #222222;
+  background-color: white;
   border-color: white;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
+
+#bookings > div > div > div.col-lg-8.col-lg-offset-2.text-center > div > a {
+  color: white;
+  background-color: #001430;
+}
+
+
+
+
 .btn-default:hover,
 .btn-default:focus,
 .btn-default.focus,
